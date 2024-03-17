@@ -1,4 +1,4 @@
-#### Dockerized MariaDB Setup with Optional SQL Backup Automation
+### **Dockerized MariaDB Setup with Optional SQL Backup Automation**
 
 
 ### Building and running your application
