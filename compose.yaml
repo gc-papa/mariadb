@@ -25,7 +25,7 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
-    container_name: db-backup
+    container_name: dump
     volumes:
       - ./backup:/backup
       - ./scripts:/scripts
