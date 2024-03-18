@@ -1,5 +1,4 @@
-### **Dockerized MariaDB Setup with Optional SQL Backup Automation**
-
+### **Automated MariaDB Docker Setup with Optional CRON-based SQL Backup**
 
 ### Building and running your application
 
